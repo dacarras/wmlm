@@ -2,10 +2,9 @@ Package: wmlm
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: dacarras
+Maintainer: The package maintainer <dacarras@uc.clt>
+Description: A function that creates scaled survey weights for mixed models.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
